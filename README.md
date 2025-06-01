@@ -161,5 +161,5 @@ npm run dev
 
 ## 👨‍💻 Developed By
 
-Priyanshu Ghosh
+Divij Jain
 Full-Stack Developer | React.js • Node.js • MongoDB
